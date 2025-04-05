@@ -1,0 +1,25 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore build output directories
+/Build/
+/Builds/
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
+
+# Unity specific files
+/Library/
+/obj/
+/Temp/
+/Build/
+/Builds/
+/Logs/
+
+# User-specific files
+.user
+.userprefs
+.idea/
+*.suo
+*.user
+*.userosscache
